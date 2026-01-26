@@ -49,7 +49,7 @@ Facts en vrac:
 - In another [Gerry Granahan interview]({{ "/mirrors/gerry-granahan-by-todd-baptista.html" | relative_url }}), the discussion between Gerry Granahan and James Ray mother differs.
 
 Website updates:
-- whereisjamesray website is now available at whereisjamesray.net and whereisjamesray.com.
+- whereisjamesray website is now available at whereisjamesray.net and ~~whereisjamesray.com~~.
 - James Ray biography by Mike fenton is now the primary one.
 - Songs table is responsive and clearer.
 - New clippings added.
